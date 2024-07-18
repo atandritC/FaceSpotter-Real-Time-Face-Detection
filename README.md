@@ -12,12 +12,7 @@ FaceSpotter utilizes computer vision techniques to detect human faces in real-ti
 
 ![FaceSpotter Demo](https://github.com/atandritC/Demo-GIFs-Pictures/blob/main/FaceSpotter.gif)
 
-## Installation and Usage Instructions (For End-Users)
-
-To use FaceSpotter, visit the following Streamlit site where it is hosted:
-[FaceSpotter on Streamlit](https://facespotter-app.streamlit.io/)
-
-## Installation and Usage Instructions (For Developers)
+## Installation and Usage Instructions 
 
 ### Installation
 
